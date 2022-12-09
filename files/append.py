@@ -1,0 +1,5 @@
+file = open("data.txt", "a")
+file.write("Iam  making some changes in data ")
+file.write("worst guy in world is me ")
+file.write("chaduvko poyyi changes chesa data.txt ")
+file.close()
