@@ -1,0 +1,7 @@
+price of all products
+100 50
+200 80
+24000
+price of all products
+100 80
+16000
